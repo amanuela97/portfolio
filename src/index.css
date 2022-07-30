@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Oxygen&family=Oxygen+Mono&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  html {
+    scrollbar-width: thin;
+    scrollbar-color: #374151 #374151;
+  }
+  ::-webkit-scrollbar {
+    width: 12px;
+  }
+  .dark ::-webkit-scrollbar-track {
+    background: #111827;
+  }
+  .dark ::-webkit-scrollbar-thumb {
+    background-color: #0f172a;
+    border: 3px solid #374151;
+    border-radius: 10px;
+  }
+  .light ::-webkit-scrollbar-track {
+    background: white;
+  }
+  .light ::-webkit-scrollbar-thumb {
+    background-color: #94a3b8;
+    border: 3px solid #cbd5e1;
+    border-radius: 10px;
+  }
+}

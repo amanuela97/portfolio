@@ -1,0 +1,63 @@
+{
+  "translations": {
+    "copyright": "@ 2022 suunniteltu & rakennettu by Amanuel Zewdie",
+    "contactTitle": "Yhteystiedot",
+    "footerText": "Kiitos, että tutustuit portfoliooni. Jos haluat kysyä lisätietoja tai tarjota minulle töitä tai projektia, ota yhteyttä!",
+    "location": "Helsinki, Suomi",
+    "navItems": {
+      "home": "Kotisivu",
+      "about": "Kuka",
+      "projects": "Projektit",
+      "contact": "Yhteys",
+      "resume": "CV"
+    },
+    "hero": {
+      "name": "Hei minun nimeni on <2>Amanuel Zewdie.</2>",
+      "expertise": "Olen fullstack web-kehittäjä",
+      "experience": "Minulla on kokemusta näistä teknologioista",
+      "currently": "Tällä hetkellä käyn kurssilla osoitteessa <2>Integrify</2>."
+    },
+    "about": {
+      "first": "Hei siellä! Nimeni on Amanuel ja nautin ongelmien ratkaisemisesta ja ohjelmistojen\n luomisesta, jotka ovat visuaalisesti houkuttelevia, helppokäyttöisiä ja käyttäjäystävällisiä. Kiinnostukseni webin\nkehitykseen kasvoi ensimmäisen kerran vuonna 2018, kun päätin oppia HTML ja CSS, jotta voisin\nopetella tekemään oman verkkosivustoni.",
+      "second": "Siitä lähtien olen suorittanut tietotekniikan tutkinnon. Minulla on myös ollut etuoikeus työskennellä frontend-kehittäjänä <2>sosiaalisen median yrityksessä</2>, joka yhdistää tanssijoita maailmanlaajuisesti. Olen myös työskennellyt voittoa tavoittelemattomalle <6>järjestölle</6>, joka auttaa pakolaisia ​​löytämään majoitusta. Nykyään päätavoitteeni on laajentaa tietämystäni edelleen oppimalla lisää verkosta <10>integrifyssa</10>.",
+      "me": "Minusta",
+      "techTitle": "teknologioita",
+      "techSubtitle": "äskettäin olen käyttänyt seuraavia tekniikoita"
+    },
+    "projects": {
+      "sectionTitle": "Projektit, joissa olen työskennellyt",
+      "sectionSubTitle": "Käytettyjä tekniikoita ovat:",
+      "one": {
+        "title": "Henkilökohtainen projekti",
+        "name": "Weather App",
+        "description": "Sääsovellus, joka lähettää päivittäisiä tai kuukausittaisia ​​sääpäivityksiä seuraavalle päivälle.\nKäyttäjät voivat määrittää kaupungin, jonka säätiedotukset he haluavat vastaanottaa.",
+        "alt": "Kuvakaappaus Weather-sovelluksesta."
+      },
+      "two": {
+        "title": "Kouluprojekti",
+        "name": "LeViteZer",
+        "description": "Gibaali ja kameran ohjausjärjestelmä, joka on rakennettu käyttämällä <2>LeViteZer-protokollaa/boxia</2>. Ohjelmisto on web-pohjainen versio LeViteZer-käyttöliittymästä, jota käytetään kameran, objektiivin ja gimbalin ohjaukseen.",
+        "alt": "Kuvakaappaus Levitezeristä."
+      },
+      "three": {
+        "title": "Fullstack-projekti",
+        "name": "Patientor",
+        "description": "Tämä projekti toteutettiin osana Helsingin yliopiston <1>fullstack open 2022 -kurssia</1>. Patientor on yksinkertainen potilastietosovellus lääkäreille, jotka käsittelevät potilaiden diagnooseja ja perusterveystietoja. Sivuston avulla voit lisätä ja seurata potilaita ja heidän diagnoosejaan",
+        "alt": "kuvakaappaus Potilasta."
+      }
+    },
+    "contact": {
+      "title": "Ota yhteyttä",
+      "subTitle": "Lähetä alla oleva lomake ottaaksesi minuun yhteyttä",
+      "name": { "title": "Sinun nimesi", "placeholder": "nimi" },
+      "email": { "title": "Sähköpostisi", "placeholder": "esimerkki@gmail.com" },
+      "subject": { "title": "Aihe", "placeholder": "aihe" },
+      "message": { "title": "Viestisi", "placeholder": "Jätä viesti..." },
+      "button": "Lähetä viesti",
+      "success": "Menestys!",
+      "error": "Virhe!",
+      "successMessage": "lähetetty onnistuneesti",
+      "errorMessage": "jotain meni pieleen. yritä uudelleen"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "translations": {
+    "copyright": "@ 2022 Designed & Built by Amanuel Zewdie",
+    "contactTitle": "Contact Info",
+    "footerText": "Thank you for checking out my portfolio. For any business inquiries please feel free to contact me via email or linkedin.",
+    "location": "Helsinki, Finland",
+    "navItems": {
+      "home": "Home",
+      "about": "About",
+      "projects": "Projects",
+      "contact": "Contact",
+      "resume": "Resume"
+    },
+    "hero": {
+      "name": "Hi, my name is <2>Amanuel Zewdie.</2>",
+      "expertise": "I'm a fullstack developer.",
+      "experience": "I'm experienced in",
+      "currently": "Currently, I'm taking a course at <2>Integrify</2>."
+    },
+    "about": {
+      "first": "Hello there! My name is Amanuel and i enjoy problem solving, and creating software\nproducts that are visually appealing, acessible and user-friendly. My interest in web\ndevelopment first grew back in 2018 when i decided to learn HTML & CSS so i could\nlearn to make my own website.",
+      "second": "Since then, i have obtained my degree in information technology. I have also had the privilige of doing an internship as a frontend developer for a <2>social media company</2> that connects dancers worldwide. I have also done an internship for a non-profit <6>organization</6> that helps refugees find accommodation. Today, my main focus is to further expand my knowledge by learning more about the web at <10>integrify</10>.",
+      "me": "About Me",
+      "techTitle": "Technologies",
+      "techSubtitle": " Here are a few technologies i have been using recently."
+    },
+    "projects": {
+      "sectionTitle": "Projects I've Worked On",
+      "sectionSubTitle": "Technologies used include:",
+      "one": {
+        "title": "Personal Project",
+        "name": "Weather App",
+        "description": "A Weather App that sends daily or monthly weather updates for the next day.\nUsers Can specify the city for which they want to recieve weather updates.",
+        "alt": "Screenshot of the Weather App"
+      },
+      "two": {
+        "title": "School Project",
+        "name": "LeViteZer",
+        "description": "A gimbal and camera control system built using the <2>LeViteZer protocol/box</2>. The software is a web-based version of the LeViteZer user interface used for camera, lens and gimbal control.",
+        "alt": "Screenshot of the Levitezer."
+      },
+      "three": {
+        "title": "Fullstack Project",
+        "name": "Patientor",
+        "description": "This project was done as part of the<1> fullstack open 2022 course</1> provided by the University of Helsinki. Patientor is a simple medical record application for doctors who handle diagnoses and basic health information of their patients. The website allows you to add and monitor patients and their diagnoses",
+        "alt": "Screenshot of the Patientor."
+      }
+    },
+    "contact": {
+      "title": "Cotact Me",
+      "subTitle": "Submit the form below to get in touch with me",
+      "name": { "title": "Your name", "placeholder": "name" },
+      "email": { "title": "Your email", "placeholder": "example@gmail.com" },
+      "subject": { "title": "Subject", "placeholder": "subject" },
+      "message": { "title": "Your message", "placeholder": "Leave a message..." },
+      "button": "Send Message",
+      "success": "Success!",
+      "error": "Error!",
+      "successMessage": "successfully sent",
+      "errorMessage": "something went wrong. please try again"
+    }
+  }
+}
