@@ -54,8 +54,8 @@
       "subject": { "title": "Subject", "placeholder": "subject" },
       "message": { "title": "Your message", "placeholder": "Leave a message..." },
       "button": "Send Message",
-      "success": "Success!",
-      "error": "Error!",
+      "success": "Success! ",
+      "error": "Error! ",
       "successMessage": "successfully sent",
       "errorMessage": "something went wrong. please try again"
     }
