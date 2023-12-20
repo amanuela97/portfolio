@@ -10,7 +10,7 @@ import ChatBot from "components/ChatBot";
 
 function App() {
   return (
-    <div className="font-Oxygen w-screen min-h-screen dark:text-white dark:bg-gray-900 text-black">
+    <div className="font-Oxygen w-full min-h-screen dark:text-white dark:bg-gray-900 text-black">
       <Navbar />
       <Home />
       <About />

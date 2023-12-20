@@ -17,7 +17,7 @@
   "plugins": ["react", "jest"],
   "rules": {
     "indent": ["error", 2],
-    "quotes": [2, "double"],
+    "quotes": "off",
     "eqeqeq": "error",
     "no-trailing-spaces": "error",
     "object-curly-spacing": ["error", "always"],

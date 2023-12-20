@@ -164,3 +164,24 @@ export const useData = () => {
     projects
   };
 };
+
+export const sendMessage = async (question) => {
+  try {
+    const res = await fetch(
+      `https://email-gpt-seven.vercel.app/api/chatbot?question=${JSON.stringify(question)}`
+    );
+
+    if (!res.ok) {
+      return {
+        error: res.statusText
+      };
+    }
+
+    const result = await res.json();
+    return result;
+  } catch (error) {
+    return {
+      error: "something went wrong"
+    };
+  }
+};
