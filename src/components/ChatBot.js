@@ -91,7 +91,10 @@ export default function ChatBot() {
             <span className="inset-0 rounded-[50%] flex justify-center items-center">
               <FaRobot size={25} />
             </span>
-            <p>Hi there. How can I help you today?</p>
+            <p>
+              Hi there. I am an assistant chatbot that can provide you information about Amanule and
+              his work qualifications. Anything you would like to know about him?
+            </p>
           </li>
         </ul>
         <form className="chatbot__input-box" onSubmit={send}>
