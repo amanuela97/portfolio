@@ -47,7 +47,7 @@
       }
     },
     "contact": {
-      "title": "Cotact Me",
+      "title": "Contact Me",
       "subTitle": "Submit the form below to get in touch with me",
       "name": { "title": "Your name", "placeholder": "name" },
       "email": { "title": "Your email", "placeholder": "example@gmail.com" },
